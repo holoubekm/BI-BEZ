@@ -1,5 +1,6 @@
 # BI-BEZ Course v2014
-## CTU / ČVUT FIT
+## Bezpečnost
+### CTU / ČVUT FIT
 
 ### Bonuses
 #### Bonus 1
